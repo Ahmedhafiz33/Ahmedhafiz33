@@ -12,7 +12,7 @@
 </p> -->
 
 <p >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ahmed+Ekrem+Hafız;Founder+%26+Full-Stack+Developer;Building+Mobile+and+Web+Apps+with+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ahmed+Ekrem+Hafız;Founder+%26+Full-Stack+Developer;Building+Mobile+and+Web+Apps+with+Passion" alt="Typing SVG" width="100%" />
 </p>
 
 
