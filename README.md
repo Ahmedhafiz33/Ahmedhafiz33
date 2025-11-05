@@ -10,8 +10,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=24&duration=2000&pause=1000&color=0cc142&center=true&vCenter=true&width=450&lines=Hey+there!+I'm+Ahmed+Ekrem+Hafız;Founder+%26+Full-Stack+Developer;Building+Mobile+and+Web+Apps+with+Passion" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </p> -->
 <p >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=24&duration=2000&pause=1000&color=0cc142&center=true&vCenter=true&width=420&lines=Hey+there!+I'm+Ahmed+Ekrem+Hafız;Founder+%26+Full-Stack+Developer;Building+Mobile+and+Web+Apps+with+Passion" alt="Typing SVG" width="98%" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Hey+there!+I'm+Ahmed+Ekrem+Hafız;Founder+%26+Full-Stack+Developer;Building+Mobile+and+Web+Apps+with+Passion" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 
 
