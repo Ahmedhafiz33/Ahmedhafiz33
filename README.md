@@ -2,8 +2,9 @@
 
 <!-- Banner -->
 <p >
-  <img src="https://i.imgur.com/wjYvXoB.gif" alt="Developer Banner" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Banner" width="100%" />
 </p>
+
 
 <!-- Animated typing text -->
 <!-- <p >
