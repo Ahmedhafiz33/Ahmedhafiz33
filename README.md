@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Ahmed+Ekrem+Hafız;Founder+%26+Full-Stack+Developer;Building+Web+and+Mobile+Apps+from+Mersin" alt="Typing SVG" />
 </a>
 
-- 👨‍💻 I'm the **Founder & Full-Stack Developer** at [ProfsWeb](https://ahmedhafiz.com.tr).  
+- 👨‍💻 I'm the **Full-Stack Developer** at [ProfsWeb](https://ahmedhafiz.com.tr).  
 - 💡 I love building modern, high-performance web & mobile applications.  
 - ⚙️ Tech Stack: **Flutter**, **Dart**, **PHP**, **Laravel**, **React JS**, **HTML**, **CSS**, **JavaScript**, **Firebase**, **Postman**, **phpMyAdmin**  
 - 🏙 Based in **Mersin, Turkey**  
