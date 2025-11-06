@@ -1,70 +1,78 @@
-<!-- 🌙 Ahmed Ekrem Hafız - Developer README -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header"/>
 
-
-<p >
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Banner" width="50%" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ahmedhafiz33&label=Profile%20Views&color=00FFFF&style=flat"/>
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0cc142&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Ahmed+Ekrem+Hafız;Full-Stack+Developer;Building+Mobile+and+Web+Apps+with+Passion" alt="Typing SVG" style="max-width: 100%; height: auto;" />
-</p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
 
+<h3 align="center">
+  Welcome to my profile  
+</h3>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Ahmed+Ekrem+Hafız;Founder+%26+Full-Stack+Developer;Building+Web+and+Mobile+Apps+from+Mersin" alt="Typing SVG" />
+</a>
 
+- 👨‍💻 I'm the **Founder & Full-Stack Developer** at [ProfsWeb](https://ahmedhafiz.com.tr).  
+- 💡 I love building modern, high-performance web & mobile applications.  
+- ⚙️ Tech Stack: **Flutter**, **Dart**, **PHP**, **Laravel**, **React JS**, **HTML**, **CSS**, **JavaScript**, **Firebase**, **Postman**, **phpMyAdmin**  
+- 🏙 Based in **Mersin, Turkey**  
+- 📧 Reach me at: **ahmed@profsweb.com**  
+- 🌐 Visit my portfolio: [ahmedhafiz.com.tr](https://ahmedhafiz.com.tr)
 
 ---
 
-### 🧠 About Me
-- 🏢 Mobile App Developer at **ProfsCode**
-- 🌍 Based in **Mersin Merkez, Türkiye**
-- 💻 Developing mobile and web apps with **Flutter, Laravel, and React**
-- ☕ Passionate about clean code, creative UI, and elegant architecture
-- 🚀 Always learning, always building something new
+## 📊 GitHub Analytics & Trophy
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhafiz33&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhafiz33&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedhafiz33&theme=tokyonight&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### ⚙️ Tech Stack
+## 📧 Connect With Me
 
-<p >
-  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,react,html,css,javascript,firebase,postman,phpmyadmin,git,github,vscode" />
-</p>
+<div align="center">
 
----
+  <a href="https://www.linkedin.com/in/ahmed-ekrem-hafiz/">
+    <img width='36px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ahmedhafiz.33/">
+    <img width='36px' src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg'>
+  </a>
+  &nbsp;
+  <a href="mailto:ahmed@profsweb.com">
+    <img width='36px' src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png'>
+  </a>
+  &nbsp;
+  <a href="https://ahmedhafiz.com.tr/">
+    <img width='36px' src='https://cdn-icons-png.flaticon.com/512/841/841364.png'>
+  </a>
 
-### 📈 GitHub Stats
-
-<p >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedhafez&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhafez&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<p >
-  ### 💬 Languages I Use Most
-<p >
-  <img src="https://skillicons.dev/icons?i=dart,php,js,html,css,react" />
-</p>
-
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p >
-  <a href="mailto:ahmed@profsweb.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-ekrem-hafiz/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ahmedhafiz.33/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://ahmedhafiz.com.tr/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
-### ⚡ A Bit of Animation
+## 🛠  Tech Stack
 
-<p >
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding animation">
-</p>
+<div align="center">
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg'>
+  <img width='42px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
+</div>
 
 ---
 
-<p ><b>“Turning ideas into digital reality, one line of code at a time.”</b></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
