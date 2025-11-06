@@ -1,16 +1,12 @@
 <!-- 🌙 Ahmed Ekrem Hafız - Developer README -->
 
-<!-- Banner -->
+
 <p >
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Banner" width="50%" />
 </p>
 
-
-<!-- <p >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=24&duration=2000&pause=1000&color=0cc142&center=true&vCenter=true&width=450&lines=Hey+there!+I'm+Ahmed+Ekrem+Hafız;Founder+%26+Full-Stack+Developer;Building+Mobile+and+Web+Apps+with+Passion" alt="Typing SVG" style="max-width: 100%; height: auto;" />
-</p> -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0cc142&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Ahmed+Ekrem+Hafız;Founder+%26+Full-Stack+Developer;Building+Mobile+and+Web+Apps+with+Passion" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0cc142&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Ahmed+Ekrem+Hafız;Full-Stack+Developer;Building+Mobile+and+Web+Apps+with+Passion" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </p>
 
 
@@ -19,7 +15,7 @@
 ---
 
 ### 🧠 About Me
-- 🏢 Founder of **ProfsCode**
+- 🏢 Mobile App Developer at **ProfsCode**
 - 🌍 Based in **Mersin Merkez, Türkiye**
 - 💻 Developing mobile and web apps with **Flutter, Laravel, and React**
 - ☕ Passionate about clean code, creative UI, and elegant architecture
